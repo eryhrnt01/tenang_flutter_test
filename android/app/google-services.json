@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078535747697",
+    "project_id": "tenang-test",
+    "storage_bucket": "tenang-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078535747697:android:e6e2d024922d29964cc3d0",
+        "android_client_info": {
+          "package_name": "com.example.tenang_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078535747697-291hksltjmdf5g6usfrp8oqbsuqr4jmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2qmKZFfqT2iYDghrXK8CeFr_K0f4qnIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078535747697-291hksltjmdf5g6usfrp8oqbsuqr4jmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
