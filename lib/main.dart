@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:tenang_test/on_boarding/on_boarding.dart';
+import 'package:tenang_test/on_boarding/view/on_boarding_screen.dart';
 import 'app/view/root_screen.dart';
 import 'firebase_options.dart';
 
@@ -29,7 +31,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const RootScreen(),
+      home: const SplashScreen(),
     );
   }
 }

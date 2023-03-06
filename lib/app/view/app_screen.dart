@@ -3,6 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:tenang_test/authentication/view/sign_in_screen.dart';
 import 'package:tenang_test/home/home.dart';
 
+import '../../on_boarding/on_boarding.dart';
 import '../blocs/auth/auth_bloc.dart';
 
 class AppScreen extends StatelessWidget {
@@ -32,6 +33,7 @@ class AppScreen extends StatelessWidget {
             );
           }
         },
+        child: const SplashScreen(),
       ),
     );
   }
